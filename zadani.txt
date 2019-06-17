@@ -1,0 +1,14 @@
+Klasická hra Piškvorky.
+
+Implementujte následující herní módy:
+
+    pro 2 hráče na jednom počítači,
+    pro 2 hráče na 2 počítačích (síťové rozhraní),
+    pro hru proti počítači (škálovatelná umělá inteligence).
+
+Hra musí splňovat následující funkcionality:
+
+    konfigurovatelnost hry (tvar hracího pole...),
+    ukládání (resp. načítání) rozehrané hry do (resp. ze) souboru (vytvořte vhodný formát),
+    oznamovat konec hry a její výsledek.
+
